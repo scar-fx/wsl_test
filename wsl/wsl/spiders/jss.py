@@ -1,5 +1,5 @@
 import scrapy
-from wsl.wsl.items import WslItem
+from wsl.items import WslItem
 from time import sleep
 
 
